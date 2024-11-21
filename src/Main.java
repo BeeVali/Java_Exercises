@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+import java.util.*;
 public class Main {
     public static void main(String[] args) {
         //Basics PART1
@@ -58,8 +58,38 @@ public class Main {
             System.out.println(n + " x " + i + " = " + n*i);
          */
         //8 Scrie JAVA cu System.out.println
-
-
-
+        /*
+        System.out.println("    J     a   v      v    a     ");
+        System.out.println("    J    a a   v    v    a a    ");
+        System.out.println(" J  J   aaaaa   v  v    aaaaa   ");
+        System.out.println("  JJ   a     a    v    a     a  ");
+        */
+        //9 Testare calcul: ((25.5 * 3.5 - 3.5 * 3.5) / (40.5 - 4.5))
+        /*
+        double n=((25.5 * 3.5 - 3.5 * 3.5) / (40.5 - 4.5));
+        System.out.println(n);
+       */
+        //10 Testare calcul: 4.0 * (1 - (1.0/3) + (1.0/5) - (1.0/7) + (1.0/9) - (1.0/11)
+        /*
+        double n=4.0 * (1 - (1.0/3) + (1.0/5) - (1.0/7) + (1.0/9) - (1.0/11));
+        System.out.println(n);
+        */
+        //11  Raza = 7.5; P,A= ?
+        /*
+        double r=7.5;
+        double Perimetru=2*Math.PI*r;
+        double Arie=Math.PI*Math.pow(r,2);
+        System.out.println(Perimetru + " " + Arie);
+        */
+        //12 Media aritmetica a 3 nr.
+        /*
+        Scanner sc = new Scanner(System.in);
+        int a = sc.nextInt();
+        int b = sc.nextInt();
+        int c = sc.nextInt();
+        int sum = a + b + c;
+        int ma=sum/3;
+        System.out.println(ma);
+        */
     }
 }
