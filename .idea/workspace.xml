@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e4b62013-8125-4da2-a304-bc902459b162" name="Changes" comment="Ex. 1-7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +15,15 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/BeeVali/Java_Exercises.git",
+    "accountId": "39b53e73-dee0-4151-b22e-fd09bbce1b4e"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
@@ -55,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732147621994</updated>
-      <workItem from="1732147623039" duration="1777000" />
+      <workItem from="1732147623039" duration="2075000" />
     </task>
     <task id="LOCAL-00001" summary="Ex. 1-7">
       <option name="closed" value="true" />
@@ -65,7 +75,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732149092115</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ex. 1-7">
+      <option name="closed" value="true" />
+      <created>1732149720096</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732149720096</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
